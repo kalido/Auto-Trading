@@ -1,6 +1,7 @@
 ### Python for Algorithmic Trading.
 
 ##### This project was created to automate some cryptocurrency trading strategies and <br> in the future improve it using new technologies based on machine learning.
+###### For now this project only support <a href="https://bitso.com/">Bitso</a> as broker 
 
 <p>
 :wrench: Working on:<br>
